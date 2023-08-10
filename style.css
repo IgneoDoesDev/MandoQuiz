@@ -1,0 +1,127 @@
+div{
+  
+  border:thin #000000 solid;
+  font-size: 17px;
+  z-index: 0;
+  
+}
+
+.container{
+  height:660px;
+  width:1220px;
+  padding:0px;
+	
+}
+.InnerBox{
+  width:180px;
+  height:280px;
+  margin:10px;
+  float:left;
+  background-color:#ffffff;
+}
+
+.BottomBox{
+  margin:10px;
+  float: left;
+  border: none;
+}
+
+img{
+  height: 300px;
+  width: 1220px;
+  
+}
+
+.Response{
+  border: none;
+}
+
+
+#FloatingBox{
+  width: 430px;
+  height:280px;
+  border: thin black solid;
+  position: absolute;
+  left: 400px;
+  top: 480px;
+  background-color: white;
+  z-index: 100;
+  visibility: hidden;
+}
+#FloatingBox2{
+  text-align: center;
+  line-height: 100px;
+  font-size: 40px;
+  border: none;
+  
+}
+#FloatingBox3{
+  text-align: center;
+  line-height: 50px;
+  font-size: 40px;
+  border: none; 
+}
+
+.Hover{
+  text-decoration: underline;
+  color: blue;
+  border:none;
+  font-size: 17px;
+  position: absolute;
+  width: 95px;
+}
+
+.Hover:hover{
+  font-size:0px;
+  z-index: 200;
+  width: 180px;
+  height: 180px;
+}
+
+#Hover1:hover{
+  content: url(Hover1.jpeg);
+}
+
+#Hover2:hover{
+  content: url(Hover2.jpeg);
+}
+
+#Hover3:hover{
+  content: url(Hover3.jpeg);
+}
+
+#Hover4:hover{
+  content: url(Hover4.jpeg);
+}
+
+#Hover5:hover{
+  content: url(Hover5.jpeg);
+}
+
+#Hover6:hover{
+  content: url(Hover6.jpeg);
+}
+
+#Hover7:hover{
+  content: url(Hover7.jpeg);
+}
+
+#Hover8:hover{
+  content: url(Hover8.jpeg);
+}
+
+#Hover9:hover{
+  content: url(Hover9.jpeg);
+}
+
+#Hover10:hover{
+  content: url(Hover10.jpeg);
+}
+
+#Hover11:hover{
+  content: url(Hover11.jpeg);
+}
+
+#Hover12:hover{
+  content: url(Hover12.jpeg);
+}
